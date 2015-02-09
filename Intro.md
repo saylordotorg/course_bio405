@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO405: Computational Biology"
+course_description: "An introduction to the use of computers to automate data analysis or model hypotheses in the field of biology, and its application for molecular and cellular biology, biochemistry, neuroscience, evolution, population biology, and behavior."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "BIO405: Computational Biology"
 ---------------------------------------------------
 

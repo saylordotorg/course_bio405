@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO405: Computational Biology"
+course_description: "An introduction to the use of computers to automate data analysis or model hypotheses in the field of biology, and its application for molecular and cellular biology, biochemistry, neuroscience, evolution, population biology, and behavior."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Modeling Biological Processes** <span id="3"></span> 
 *Nearly any biological process can be reduced to a mathematical formula
 and modeled on a computer.  The large, multivariable datasets involved
