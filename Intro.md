@@ -78,3 +78,4 @@ computer.
 - [Unit 2](https://legacy.saylor.org/bio405/Unit02/)
 - [Unit 3](https://legacy.saylor.org/bio405/Unit03/)
 - [Unit 4](https://legacy.saylor.org/bio405/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO405/BIO405-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO405/BIO405-FinalExam-Answers.html)
